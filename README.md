@@ -1,1 +1,1 @@
-# throw, try, catch-keyword
+# throw-keyword
